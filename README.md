@@ -17,7 +17,7 @@ This project demonstrates:
 - Using t_dept_emp and t_employees, the dataset is aggregated to calculate how many males and females were active employees every year.
 - This helps identify hiring trends, gender ratio shifts, and department-level variations over time.
 
-![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
+![image alt](https://github.com/gouravjain77/Employee-Gender-Distribution-Analysis/blob/d7dbbd91713c37a0ce70b023e5b9124cce43ff25/Q1.png)
 
 
 ### 2. Number of Active Managers per Year
