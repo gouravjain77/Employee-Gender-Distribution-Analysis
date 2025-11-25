@@ -43,7 +43,7 @@ A stored procedure (filter_salary) is also included to filter salary ranges dyna
 Returns average salary by gender & department within a salary range.
 A stored procedure (filter_salary) is also included to filter salary ranges dynamically.
 
-![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
+![image alt](https://github.com/gouravjain77/Employee-Gender-Distribution-Analysis/blob/721c46b1212113b59a10b5d78577ceee947b16a6/Q4.png)
 
 ## SQL Techniques Used
 - Inner Joins & Cross Joins for dataset relationships
