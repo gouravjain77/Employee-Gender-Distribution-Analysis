@@ -24,7 +24,7 @@ This project demonstrates:
 - By cross-joining yearly ranges with t_dept_manager, we compute how many managers were active each year.
 - This enables analysis of leadership growth, department scaling, and structural changes.
 
-![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
+![image alt](https://github.com/gouravjain77/Employee-Gender-Distribution-Analysis/blob/859b155bc7824ab187e8a324b605bb71c00e5718/Q2.png)
 
 ### 3. Average Salary Analysis
 Using t_salaries, t_employees, and department mappings, the dashboard displays:
