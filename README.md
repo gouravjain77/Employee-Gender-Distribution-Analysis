@@ -35,13 +35,13 @@ Using t_salaries, t_employees, and department mappings, the dashboard displays:
 
 - Year-wise salary movement since 1990
 
-![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
+![image alt](https://github.com/gouravjain77/Employee-Gender-Distribution-Analysis/blob/07be00bbcfad3913fd50c2705f52120fa17b11dc/Q3.png)
 
-A stored procedure (filter_salary) is also included to dynamically filter salary ranges.
+A stored procedure (filter_salary) is also included to filter salary ranges dynamically.
 
 ### 4. Stored Procedure — Salary Filter
 Returns average salary by gender & department within a salary range.
-A stored procedure (filter_salary) is also included to dynamically filter salary ranges.
+A stored procedure (filter_salary) is also included to filter salary ranges dynamically.
 
 ![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
 
