@@ -17,10 +17,14 @@ This project demonstrates:
 - Using t_dept_emp and t_employees, the dataset is aggregated to calculate how many males and females were active employees every year.
 - This helps identify hiring trends, gender ratio shifts, and department-level variations over time.
 
+![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
+
 
 ### 2. Number of Active Managers per Year
 - By cross-joining yearly ranges with t_dept_manager, we compute how many managers were active each year.
 - This enables analysis of leadership growth, department scaling, and structural changes.
+
+![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
 
 ### 3. Average Salary Analysis
 Using t_salaries, t_employees, and department mappings, the dashboard displays:
@@ -31,10 +35,15 @@ Using t_salaries, t_employees, and department mappings, the dashboard displays:
 
 - Year-wise salary movement since 1990
 
+![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
+
 A stored procedure (filter_salary) is also included to dynamically filter salary ranges.
 
 ### 4. Stored Procedure — Salary Filter
 Returns average salary by gender & department within a salary range.
+A stored procedure (filter_salary) is also included to dynamically filter salary ranges.
+
+![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
 
 ## SQL Techniques Used
 - Inner Joins & Cross Joins for dataset relationships
@@ -50,6 +59,9 @@ Returns average salary by gender & department within a salary range.
 - Conditional Logic using CASE statements
 
 ## Dashboard Features (Tableau)
+
+![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
+
 ### 1. Breakdown of Male & Female Employees
 A stacked bar chart that shows:
 
