@@ -16,7 +16,7 @@ This project demonstrates:
 ### 1. Employee Gender Distribution (1990–2000)
 - Using t_dept_emp and t_employees, the dataset is aggregated to calculate how many males and females were active employees every year.
 - This helps identify hiring trends, gender ratio shifts, and department-level variations over time.
-https://github.com/gouravjain77/Employee-Gender-Distribution-Analysis/blob/b1b82d94d8ce295bcb5fe8f57b4807643bcf8b70/Q1.png
+
 
 ### 2. Number of Active Managers per Year
 - By cross-joining yearly ranges with t_dept_manager, we compute how many managers were active each year.
