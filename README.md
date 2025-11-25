@@ -60,7 +60,7 @@ A stored procedure (filter_salary) is also included to filter salary ranges dyna
 
 ## Dashboard Features (Tableau)
 
-![image alt](https://github.com/gouravjain77/Food-Trend-Dashboard/blob/b75f4e49a88a4af5d82a1d3d1bc35006122a0b37/Campaign%20Performance.png)
+![image alt](https://github.com/gouravjain77/Employee-Gender-Distribution-Analysis/blob/df23d6c0d841d33db3dde6b58d75adff2b6c9295/Tableau%20Public%20-%20Sql%2BTableau%2026_11_2025%2000_00_10.png)
 
 ### 1. Breakdown of Male & Female Employees
 A stacked bar chart that shows:
