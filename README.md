@@ -1,4 +1,4 @@
-# Employee Gender Distribution Analysis
+# Employee Gender Distribution Analysis 
 ## Project Description
 ### The Gender Distribution Analysis dashboard is built using SQL-based data processing and Tableau visual design. It brings together multiple datasets from an employee database to reveal meaningful workforce insights across years, genders, and departments.
 
